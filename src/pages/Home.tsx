@@ -1,6 +1,6 @@
-import Nav from '../components/Nav.tsx';
+import Nav from '../components/Nav';
 
-export function home() {
+export default function home() {
     return (
         <Nav/>
     );
